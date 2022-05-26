@@ -2,4 +2,4 @@
 
 commit ro master 
 
-This added new code 
+This added new code form current branch 
